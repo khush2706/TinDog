@@ -10,8 +10,8 @@ Made this website for a startup idea which is "Tinder for Dogs". This project ha
  ## Typography and Icons
  
  I used Google Fonts:
- -Montserrat
- -Ubuntu
+  -Montserrat
+  -Ubuntu
  
  Icons:
 - Font Awesome (http://fontawesome.io/icons/)
