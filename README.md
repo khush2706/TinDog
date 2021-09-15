@@ -7,11 +7,11 @@ Made this website for a startup idea which is "Tinder for Dogs". This project ha
 
  https://khush2706.github.io/TinDog/ Best used with Google Chrome.
  
- ## Typography and Icons
- 
- I used Google Fonts:
-  -Montserrat
-  -Ubuntu
+## Typography and Icons
+
+I used Google Fonts:
+- Montserrat
+- Ubuntu
  
  Icons:
 - Font Awesome (http://fontawesome.io/icons/)
